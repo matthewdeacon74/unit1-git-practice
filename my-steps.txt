@@ -1,0 +1,108 @@
+### Step 2A
+/c/Users/matth
+
+
+### Step 2B
+cd Desktop
+
+
+### Step 2C
+cd unit1-git-practice
+
+
+### Step 2D
+/c/Users/matth/Desktop/unit1-git-practice
+
+
+### Step 2E
+ls
+
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd c:
+
+
+### Step 2H
+/c
+
+### Step 2I
+'$Recycle.Bin'/             PerfLogs/                     Users/
+ ArcTemp/                  'Program Files'/               Windows/
+'Documents and Settings'@  'Program Files (x86)'/         XboxGames/
+ DumpStack.log              ProgramData/                  hiberfil.sys
+ DumpStack.log.tmp          Recovery/                     pagefile.sys
+ Intel/                     SteamLibrary/                 swapfile.sys
+ OEM/                      'System Volume Information'/
+ OneDriveTemp/              Temp/
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd Desktop/unit1-git-practice
+
+
+### Step 3A
+mkdir veggies
+mkdir meats
+mkdir desserts
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+mv meats ./proteins
+
+### Step 3E
+cd veggies
+touch carrot.txt pea.txt
+
+### Step 3F
+cd ../sweets
+touch cookie.txt
+
+### Step 3G
+mv cookie.txt donut.txt
+
+### Step 3H
+cd ..
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt ./proteins
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
