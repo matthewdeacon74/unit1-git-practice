@@ -83,23 +83,30 @@ cp thing.txt tofu.txt
 mv tofu.txt ./proteins
 
 ### Step 3K
-
+cp thing.txt crab.txt
+mv crab.txt ./proteins/meats
 
 ### Step 3L
-
+rm thing.txt
 
 ### Step 3M
+cp veggies -r plants
 
 
 ### Step 3N
-
-
+mkdir drinks
+rm drinks -r
 
 ### Step 4
+git init
+git add .
+git commit -m 'first commit'
 
 
 ### Step 5
-
+git remote add origin https://github.com/matthewdeacon74/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
 
